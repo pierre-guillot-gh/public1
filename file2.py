@@ -1,1 +1,2 @@
 ++x # Noncompliant
+
